@@ -1,0 +1,5 @@
+INSERT INTO clients (name,last_name,mothers_last_name,document_type,document_number,birth_date) VALUES ('Mauro','Moya','Palli','CI','13693505','05/05/1900');
+INSERT INTO clients (name,last_name,mothers_last_name,document_type,document_number,birth_date) VALUES ('Beto','Velez','Velez','CI','7894656','04/08/1903');
+INSERT INTO clients (name,last_name,mothers_last_name,document_type,document_number,birth_date) VALUES ('Pepito','Juarez','Rodriguez','DNI','12345678','05/10/1950');
+INSERT INTO clients (name,last_name,mothers_last_name,document_type,document_number,birth_date) VALUES ('Alberto','Perez','Lopez','CE','98776543','15/05/1980');
+INSERT INTO clients (name,last_name,mothers_last_name,document_type,document_number,birth_date) VALUES ('Juan','Mercado','Mercado','CI','456789132','31/12/1957');
