@@ -19,9 +19,16 @@ Endpoint de Cliente: http://localhost:8090/api/client/
 
 Este Endpoint contiene las rutas de consulta de:
 
+Nuevo cliente:
 http://localhost:8090/api/client/create
+
+Listar Todos los Clientes:
 http://localhost:8090/api/client/all
+
+Buscar cliente por id:
 http://localhost:8090/api/client/search/id
+
+Buscar los Vehiculos pertenecientes a un cliente:
 http://localhost:8090/api/client/search_vehicles/iddeCliente
 
 proximamente se agregaran la de editar y eliminar
